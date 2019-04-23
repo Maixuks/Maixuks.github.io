@@ -112,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:maixks@hotmail.com\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"mailto:maixks@hotmail.com\" aria-expanded=\"true\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mailto:maixks@hotmail.com\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -127,7 +127,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ieltxu&amp;Mai</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://maixuks.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ieltxu&amp;Mai</a>",
           "_tags": [
             "Tema"
           ],
@@ -186,6 +186,9 @@
             },
             ".mbr-section-subtitle B": {
               "font-size": "19px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -194,8 +197,8 @@
             "paddingBottom": 1,
             "bgColor": "#f7f7f7"
           },
-          "title": "Hasta el infinito",
-          "meta": "<b><br></b><br><b>Octubre 2003\n</b><br><br><span style=\"font-style: normal;\">Agrónomos, Iturrama 13, Carpas, Cuba, Txalaparta, Zudaire, Vitoria-Gasteiz, fiestas, Zeki, Ameskoa, Termas, Valtierra, la cueva, Cambrils, Cáceres, viajes, muuuuchos viajes, familia, amigos, risas, muchas risas, Juslarotxa, proyectos, esfuerzo, 15 de mayo, Koka,  Artajona 15, Inar y sobre todo amor, mucho amor.\n</span><br><br><b> Junio 2019</b><br><b style=\"font-style: normal;\"><br>¡Y lo más importante! todos esos momentos han sido tan mágicos gracias a haberlos compartido con cada uno de vosotros y es que sois parte de nuestra vida, gracias por serlo. </b>&nbsp;<br><br><br>",
+          "title": "Hasta el infinito <br><i>Ametsik gabeko bizia, izarrik gabeko gaua</i>",
+          "meta": "<b><br></b><br><b>Octubre 2003 / 2003ko urria</b><br><br><span style=\"font-style: normal;\">Agrónomos, Iturrama 13, Carpas, Cuba, Txalaparta, Zudaire, Vitoria-Gasteiz, fiestas, Zeki, Ameskoa, Termas, Valtierra, la cueva, Cambrils, Cáceres, viajes, muuuuchos viajes, familia, amigos, risas, muchas risas, Juslarotxa, proyectos, esfuerzo, 15 de mayo, Koka,  Artajona 15, Inar y sobre todo amor, mucho amor.\n</span><br><br><b> Junio 2019 / 2019ko ekaina</b><br><b style=\"font-style: normal;\"><br>¡Y lo más importante! todos esos momentos han sido tan mágicos gracias a haberlos compartido con cada uno de vosotros y es que sois parte de nuestra vida, gracias por serlo. MILA ESKER!</b><br><br><br>",
           "_tags": [
             "Tema"
           ],
@@ -233,7 +236,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "PROGRAMA",
+          "title": "PROGRAMA / EGITARAUA",
           "text": "<p><b>El plan es el siguiente...</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -362,13 +365,13 @@
               "text-align": "left"
             }
           },
-          "title1": "CEREMONIA CIVIL",
+          "title1": "CEREMONIA CIVIL / <br>EZKONTZA ZIBILA",
           "subtitle1": "<b style=\"font-style: normal;\">12.30</b>",
           "caption1": "A las 12.30 es la ceremonia civil en la Ciudadela, en la sala Lidia Biurrun.\n<br><br>Durará aprox. 25 min&nbsp;<br>",
-          "title2": "HORA DE COMER",
+          "title2": "HORA DE COMER / <br>BAZKALORDUA",
           "subtitle2": "<b style=\"font-style: normal;\">13.00 -18.00</b>",
           "caption2": "Los novios nos iremos a comer con los familiares más cercanos, el resto ya nos hemos enterado que no os lo habéis montado nada mal… pero lo bueno viene después.",
-          "title3": "FESTIVAL EN CASA GURBINDO",
+          "title3": "FESTIVAL EN CASA GURBINDO /<br>GURBINDO ETXEAN JAIA",
           "subtitle3": "<b style=\"font-style: normal;\">18.00 - Hasta cierre</b>",
           "caption3": "A la tarde llega lo interesante, a las 18.00 horas dará comienzo en Casa Gurbindo la celebración ¡fiestaaaaa! Comenzamos con barra libre y música así que, por favor, <b>sed puntales</b>. Conforme avance la tarde se sacará un picoteo rico rico y habrá música y opción de barra hasta que el cuerpo aguante.",
           "title4": "Unlimited Sites",
@@ -469,10 +472,10 @@
               "active": true
             }
           },
-          "title1": "CEREMONIA CIVIL",
+          "title1": "CEREMONIA CIVIL / EZKONTZA ZIBILA",
           "subtitle1": "",
           "caption1": "<b>Lugar:</b> Sala Lidia Biurrun de la Ciudadela de Pamplona. <br>\n<br><b>Hora:</b> 12:30<br><br>A las 12:30 procederemos a entrar en la capilla y tomaremos asiento (sólo hay 60 sillas por lo que algunos tendrán que permanecer de pie). Una vez estemos colocados comenzará la ceremonia que durará aproximadamente 25 minutos. Tras ella <b>habrá que desalojar el local rápidamente y dejarlo libre para la 13:00</b>, ya que, vendrá otra pareja. Ya nos sacaremos fotos y comentaremos la jugada en el exterior.\n<br><br><b>Nota importante:</b> En la ciudadela no esta permitida la entrada con coches, tampoco tirar petardos, ni tracas, sólo arroz y pétalos. Y billetes si queréis…&nbsp;<br>",
-          "title2": "FIESTA",
+          "title2": "FIESTA / JAIA",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>Lugar:</b> Casa Gurbindo, Calle Vuelta de Aranzadi, 8, 31014 Pamplona <br>\n<br><b>Hora:</b> 18:00\n<br><br>A partir de las 18:00 estáis invitados a venir a Casa Gurbindo, comenzaremos con barra libre, posteriormente habrá un aperitivo y alguna sorpresa más. Habrá también música y el bar estará a nuestra disposición para continuar la fiesta hasta bien entrada la noche. &nbsp;<br><br><br><br><br>",
           "title3": "Web Fonts",
@@ -527,7 +530,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
           },
-          "title": "TE ESPERAMOS",
+          "title": "TE ESPERAMOS&nbsp;<br>ZURE ZAIN GAUDE",
           "subtitle": "<br><span style=\"font-style: normal;\">Por favor, si vas a venir a Casa Gurbindo confirma tu asistencia para poder prepararlo todo acorde al número total de invitados. \n<br><b>Necesitamos confirmar número de asistentes al local</b>, incluido niños (poned edad).<br><br>Deja por persona el <b>nombre, apellidos, teléfono</b> y en el recuadro de abajo un <b>mensaje de si vas a asistir o no</b>, así como cualquier especificación.&nbsp;</span><br><br>Eskerrik asko<br>Gracias<br>Moltes gràcies",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONFIRMA TU ASISTENCIA</a>",
           "form": {
@@ -624,7 +627,7 @@
           },
           "title": "LAS PRUEBAS DEL DELITO....",
           "text": "Proximamente aquí podréis ver las fotos <br>Las que se puedan ver...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GALERÍA</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"assets/files/Eraikitzen.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GALERÍA</a>",
           "_tags": [
             "Tema"
           ],
@@ -681,7 +684,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Maider e Ieltxu&nbsp;<br>Tenéis nuestros teléfonos...",
+          "text": "Maider e Ieltxu&nbsp;<br>Tenéis nuestros teléfonos... gure telefono zenbakiak dituzue.",
           "_tags": [
             "Tema"
           ],
