@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#f28281",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f7da64",
+        "warningColor": "#fac51c",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -23,13 +23,14 @@
       "additionalSetColors": [
         "#2e2e2e",
         "#f7f7f7",
-        "#332f2f"
+        "#332f2f",
+        "#282828"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -96,7 +97,7 @@
               "color": "#ffffff!important"
             },
             "A": {
-              "font-size": "25px"
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -127,12 +128,53 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://maixuks.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ieltxu&amp;Mai</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://maixuks.github.io\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Ieltxu&amp;Mai<br></a>",
           "_tags": [
             "Tema"
           ],
           "_name": "menu",
           "_anchor": "menu-5"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c",
+              "font-size": "25px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "30px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<i>1 de junio de 2019 &nbsp;</i><br><i>2019ko ekainaren 1ean</i>",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Tema"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-h"
         },
         {
           "_params": {
@@ -367,7 +409,7 @@
           },
           "title1": "CEREMONIA CIVIL / <br>EZKONTZA ZIBILA",
           "subtitle1": "<b style=\"font-style: normal;\">12.30</b>",
-          "caption1": "A las 12.30 es la ceremonia civil en la Ciudadela, en la sala Lidia Biurrun.\n<br><br>Durará aprox. 25 min&nbsp;<br>",
+          "caption1": "El 1 de junio a las 12.30 es la ceremonia civil en la Ciudadela, en la sala Lidia Biurrun.\n<br><br>Durará aprox. 25 min&nbsp;<br>",
           "title2": "HORA DE COMER / <br>BAZKALORDUA",
           "subtitle2": "<b style=\"font-style: normal;\">13.00 -18.00</b>",
           "caption2": "Los novios nos iremos a comer con los familiares más cercanos, el resto ya nos hemos enterado que no os lo habéis montado nada mal… pero lo bueno viene después.",
