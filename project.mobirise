@@ -229,7 +229,7 @@
               "font-size": "19px"
             },
             ".mbr-section-title I": {
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -328,7 +328,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/100-3263-2000x1332.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -355,8 +355,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/101-5084-2000x1500.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/101-5086-2000x1500.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
