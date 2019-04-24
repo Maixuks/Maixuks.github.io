@@ -10,7 +10,7 @@
         "secondaryColor": "#bfcecb",
         "successColor": "#f28281",
         "infoColor": "#7e9b9f",
-        "warningColor": "#fac51c",
+        "warningColor": "#f7da64",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
@@ -23,14 +23,13 @@
       "additionalSetColors": [
         "#2e2e2e",
         "#f7f7f7",
-        "#332f2f",
-        "#282828"
+        "#332f2f"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.7",
     "siteFonts": [],
-    "uniqCompNum": 18,
+    "uniqCompNum": 17,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -184,7 +183,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/100-2023-2000x1332.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mai-ieltxu-recortada-1007x550.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -240,7 +239,7 @@
             "bgColor": "#f7f7f7"
           },
           "title": "Hasta el infinito <br><i>Ametsik gabeko bizia, izarrik gabeko gaua</i>",
-          "meta": "<b><br></b><br><b>Octubre 2003 / 2003ko urria</b><br><br><span style=\"font-style: normal;\">Agrónomos, Iturrama 13, Carpas, Cuba, Txalaparta, Zudaire, Vitoria-Gasteiz, fiestas, Zeki, Ameskoa, Termas, Valtierra, la cueva, Cambrils, Cáceres, viajes, muuuuchos viajes, familia, amigos, risas, muchas risas, Juslarotxa, proyectos, esfuerzo, 15 de mayo, Koka,  Artajona 15, Inar y sobre todo amor, mucho amor.\n</span><br><br><b> Junio 2019 / 2019ko ekaina</b><br><b style=\"font-style: normal;\"><br>¡Y lo más importante! todos esos momentos han sido tan mágicos gracias a haberlos compartido con cada uno de vosotros y es que sois parte de nuestra vida, gracias por serlo. MILA ESKER!</b><br><br><br>",
+          "meta": "<b><br></b><br><b>Octubre 2003 / 2003ko urria</b><br><br><span style=\"font-style: normal;\">Agrónomos, Iturrama 13, Carpas, Cuba, Txalaparta, Zudaire, Vitoria-Gasteiz, fiestas, Zeki, Ameskoa, Termas, Valtierra, la cueva, Cambrils, Cáceres, viajes, muuuuchos viajes, familia, amigos, risas, muchas risas, Juslarotxa, proyectos, esfuerzo, 15 de mayo, Koka,  Artajona 15, Inar y sobre todo amor, mucho amor.\n</span><br><br><b> Junio 2019 / 2019ko ekaina</b><br><b style=\"font-style: normal;\"><br>¡Y lo más importante! todos esos momentos han sido tan mágicos gracias a haberlos compartido con cada uno de vosotr@s y es que sois parte de nuestra vida, gracias por serlo. MILA ESKER!</b><br><br><br>",
           "_tags": [
             "Tema"
           ],
@@ -248,44 +247,200 @@
           "_anchor": "header3-1"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
-              "font-size": "48px"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
+            "autoplay": true,
+            "fullScreen": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/100-2855-2000x1332.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "4",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-1995-2000x1332.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br>EGITARAUA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Plana hurrengoa da...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-2922-2000x1332.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br>PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-2855-2000x1332.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br>EGITARAUA",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Plana hurrengoa da...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-3026-2000x1332.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br>PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-3264-2000x1332.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br>EGITARAUA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Plana hurrengoa da...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/100-3263-2000x1332.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/imgp2998-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br>EGITARAUA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Plana hurrengoa da ...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/101-5084-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/imgp7726-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br><br><br><br><br><br>EGITARAUA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "Plana hurrengoa da...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20180402-132619-792-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20181022-wa0013-1-1600x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc00835-2-2000x1711.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "PROGRAMA",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "El plan es el siguiente...",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "title": "PROGRAMA / EGITARAUA",
-          "text": "<p><b>El plan es el siguiente...</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "articleLayout": false,
           "_tags": [
             "Tema"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-7"
+          "_name": "slider",
+          "_anchor": "slider-l",
+          "_styles": {
+            "H2": {
+              "text-align": "left",
+              "font-size": "46px"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "features4",
@@ -576,7 +731,7 @@
           "subtitle": "<br><span style=\"font-style: normal;\">Por favor, si vas a venir a Casa Gurbindo confirma tu asistencia para poder prepararlo todo acorde al número total de invitados. \n<br><b>Necesitamos confirmar número de asistentes al local</b>, incluido niños (poned edad).<br><br>Deja por persona el <b>nombre, apellidos, teléfono</b> y en el recuadro de abajo un <b>mensaje de si vas a asistir o no</b>, así como cualquier especificación.&nbsp;</span><br><br>Eskerrik asko<br>Gracias<br>Moltes gràcies",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONFIRMA TU ASISTENCIA</a>",
           "form": {
-            "action": "maixks@hotmail.com",
+            "action": "ieltxumai@gmail.com",
             "alerts": {
               "success": "¡Nos vemos muuuy pronto! ;)"
             },

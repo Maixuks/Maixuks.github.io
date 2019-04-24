@@ -95,7 +95,7 @@ h6,
   background-color: #7e9b9f !important;
 }
 .bg-warning {
-  background-color: #fac51c !important;
+  background-color: #f7da64 !important;
 }
 .bg-danger {
   background-color: #f28281 !important;
@@ -181,8 +181,8 @@ h6,
   border-color: #eb3d3c !important;
 }
 .btn-warning {
-  background-color: #fac51c;
-  border-color: #fac51c;
+  background-color: #f7da64;
+  border-color: #f7da64;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -191,14 +191,14 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #c59704;
-  border-color: #c59704;
+  background-color: #f3c91b;
+  border-color: #f3c91b;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #c59704 !important;
-  border-color: #c59704 !important;
+  background-color: #f3c91b !important;
+  border-color: #f3c91b !important;
 }
 .btn-danger {
   background-color: #f28281;
@@ -302,8 +302,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #ac8404;
-  color: #ac8404;
+  border-color: #e9bd0c;
+  color: #e9bd0c;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -311,14 +311,14 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #fac51c;
-  border-color: #fac51c;
+  background-color: #f7da64;
+  border-color: #f7da64;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #fac51c !important;
-  border-color: #fac51c !important;
+  background-color: #f7da64 !important;
+  border-color: #f7da64 !important;
 }
 .btn-danger-outline {
   background: none;
@@ -350,7 +350,7 @@ h6,
   color: #7e9b9f !important;
 }
 .text-warning {
-  color: #fac51c !important;
+  color: #f7da64 !important;
 }
 .text-danger {
   color: #f28281 !important;
@@ -362,7 +362,7 @@ h6,
   background-color: #7e9b9f;
 }
 .alert-warning {
-  background-color: #fac51c;
+  background-color: #f7da64;
 }
 .alert-danger {
   background-color: #f28281;
@@ -409,7 +409,7 @@ h6,
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #fef8e4;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -517,15 +517,12 @@ h6,
 #header3-1 .mbr-section-title I {
   font-size: 36px;
 }
-#msg-box8-7 .mbr-section-title,
-#msg-box8-7 p {
-  color: #fff;
+#slider-l H2 {
+  text-align: left;
+  font-size: 46px;
 }
-#msg-box8-7 .lead P {
-  font-size: 20px;
-}
-#msg-box8-7 .mbr-section-title {
-  font-size: 48px;
+#slider-l P {
+  text-align: left;
 }
 #features7-8 .card-subtitle {
   color: #000000;
